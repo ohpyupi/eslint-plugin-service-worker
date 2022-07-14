@@ -1,6 +1,6 @@
 {
   "peerDependencies": {
-    "eslint": "^8.16.0"
+    "eslint": "^6.8.0"
   },
   "name": "@dropbox/eslint-plugin-service-worker",
   "version": "1.0.0",
